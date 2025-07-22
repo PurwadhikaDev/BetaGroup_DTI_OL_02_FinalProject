@@ -15,6 +15,6 @@ def get_connection():
         return conn
 
     except OperationalError as e:
-        st.error("❌ Failed to connect.")
+        st.error("Sorry the credentials restricted to access due to the limitation.")
         st.exception(e)
         return None
