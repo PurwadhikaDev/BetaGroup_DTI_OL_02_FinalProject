@@ -40,3 +40,11 @@ Target: Market Value
 3. Navigate to the project folder : `cd path/to/your/folder`
 5. Launch the Streamlit app by typing this on terminal : `streamlit run app.py`
 ---
+
+**Tableau Dashboard:**
+![tableau1_beta_group](https://github.com/user-attachments/assets/4f7ebe03-5bd1-4bf3-91dc-2390d52eeb88)
+
+![tableau2_beta_group](https://github.com/user-attachments/assets/fbac837a-e8e7-4959-ae9a-5a338e4725fd)
+
+![tableau3_beta_group](https://github.com/user-attachments/assets/0d559eb4-5383-4ad1-92fd-0d3066d53916)
+---
