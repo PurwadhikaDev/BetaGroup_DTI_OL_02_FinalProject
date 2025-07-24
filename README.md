@@ -19,7 +19,9 @@ Target: Market Value
 
 **Files:**
 - Dataset : PHL_OPA_PROPERTIES.csv
-- Notebook : beta_group_final_project.ipynb (on implementation part, df_prediction.csv used to analyze the prediction result)
+- Notebook : beta_group_final_project.ipynb
+  - df_model.csv used for modeling
+  - df_prediction.csv used to analyze the prediction result (implementation part)
 - Tableau : https://public.tableau.com/app/profile/jonathan.mark.hamonangan/viz/BetaGroup-TowardSmarterValuationAMachineLearningApproachtoResidentialPropertyMassAppraisalinPhiladelphia/DashboardMV?publish=yes
 - App Deployment (Local) : https://philadelphia-housing-price-betagroup.streamlit.app/ (public)
 * This streamlit app is unstable on public access, so we suggest to launch the app on local access.
