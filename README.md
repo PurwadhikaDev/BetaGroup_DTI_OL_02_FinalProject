@@ -1,6 +1,6 @@
 # **Toward Smarter Valuation: A Machine Learning Approach to Residential Property Mass Appraisal in Philadelphia**
 
-by BETA GROUP
+by BETA GROUP - DTI DS
 - Christina Eastti Saktiani
 - Jonathan Mark Hamonangan
 - Faaza Naima
@@ -25,7 +25,7 @@ Target: Market Value
 * This streamlit app is unstable on public access, so we suggest to launch the app on local access.
   
 ---
-**How to Use the Application (Local):**
+**How to Use the Streamlit Application (Local):**
 1. Clone or download all the following files into **one project folder**:
    * `about.py`
    * `app.py`
@@ -39,4 +39,12 @@ Target: Market Value
 2. Open terminal or command prompt.
 3. Navigate to the project folder : `cd path/to/your/folder`
 5. Launch the Streamlit app by typing this on terminal : `streamlit run app.py`
+---
+
+**Tableau Dashboard:**
+![tableau1_beta_group](https://github.com/user-attachments/assets/4f7ebe03-5bd1-4bf3-91dc-2390d52eeb88)
+
+![tableau2_beta_group](https://github.com/user-attachments/assets/fbac837a-e8e7-4959-ae9a-5a338e4725fd)
+
+![tableau3_beta_group](https://github.com/user-attachments/assets/0d559eb4-5383-4ad1-92fd-0d3066d53916)
 ---
